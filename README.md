@@ -154,6 +154,8 @@ my-app/
 │   ├── deployment.yaml
 │   ├── service.yaml
 │   ├── ingress.yaml
+│   ├── storage.yaml
+│   ├── hpa.yaml
 │   └── _helpers.tpl
 ├── values.yaml
 ├── Chart.yaml
